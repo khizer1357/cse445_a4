@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:noNamespaceSchemaLocation="https://khizer1357.github.io/cse445_a4/Hotels.xsd">
+
+  <!-- wrong root element -->
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Name>DuplicateName</Name> <!-- duplicate name -->
+    <Address>
+      <Number>11</Number>
+      <Street>E 7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <!-- Missing </Address> -->
+    <Phone>480-968-8885</Phone>
+  </Hotel>
+
+  <!-- Missing Rating attribute -->
+  <Hotel>
+    <Name>Hyatt</Name>
+    <Address>
+      <Number>601</Number>
+      <Street>South Ash Ave</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+    <!-- Missing Phone -->
+  </Hotel>
+
+</Hotel>
