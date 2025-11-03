@@ -4,6 +4,8 @@
 
   <Hotel Rating="4.2" NearestAirport="Sky Harbor">
     <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
     <Address>
       <Number>11</Number>
       <Street>E 7th St</Street>
@@ -11,12 +13,11 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
-    <Phone>480-968-8885</Phone>
-    <Phone>800-937-8461</Phone>
   </Hotel>
 
   <Hotel Rating="4.5" NearestAirport="Sky Harbor">
     <Name>Hyatt Place Tempe</Name>
+    <Phone>480-000-1111</Phone>
     <Address>
       <Number>601</Number>
       <Street>South Ash Ave</Street>
@@ -24,11 +25,12 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
-    <Phone>480-000-1111</Phone>
   </Hotel>
 
   <Hotel Rating="3.9" NearestAirport="Sky Harbor">
     <Name>Marriott Phoenix Airport</Name>
+    <Phone>602-000-2222</Phone>
+    <Phone>888-000-2222</Phone>
     <Address>
       <Number>1101</Number>
       <Street>N 44th St</Street>
@@ -36,12 +38,12 @@
       <State>AZ</State>
       <Zip>85008</Zip>
     </Address>
-    <Phone>602-000-2222</Phone>
-    <Phone>888-000-2222</Phone>
   </Hotel>
 
   <Hotel Rating="4.3" NearestAirport="Sky Harbor">
     <Name>Sheraton Phoenix Downtown</Name>
+    <Phone>602-262-2500</Phone>
+    <Phone>888-627-8349</Phone>
     <Address>
       <Number>340</Number>
       <Street>N 3rd St</Street>
@@ -49,12 +51,11 @@
       <State>AZ</State>
       <Zip>85004</Zip>
     </Address>
-    <Phone>602-262-2500</Phone>
-    <Phone>888-627-8349</Phone>
   </Hotel>
 
-  <Hotel Rating="4.1">
+  <Hotel Rating="4.1" NearestAirport="">
     <Name>Tempe Mission Palms</Name>
+    <Phone>480-894-1400</Phone>
     <Address>
       <Number>60</Number>
       <Street>E 5th St</Street>
@@ -62,11 +63,12 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
-    <Phone>480-894-1400</Phone>
   </Hotel>
 
   <Hotel Rating="4.4" NearestAirport="Sky Harbor">
     <Name>Hyatt Regency Phoenix</Name>
+    <Phone>602-252-1234</Phone>
+    <Phone>800-233-1234</Phone>
     <Address>
       <Number>122</Number>
       <Street>N 2nd St</Street>
@@ -74,12 +76,11 @@
       <State>AZ</State>
       <Zip>85004</Zip>
     </Address>
-    <Phone>602-252-1234</Phone>
-    <Phone>800-233-1234</Phone>
   </Hotel>
 
-  <Hotel Rating="3.8">
+  <Hotel Rating="3.8" NearestAirport="">
     <Name>Graduate Tempe</Name>
+    <Phone>480-967-9431</Phone>
     <Address>
       <Number>225</Number>
       <Street>E Apache Blvd</Street>
@@ -87,11 +88,11 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
-    <Phone>480-967-9431</Phone>
   </Hotel>
 
   <Hotel Rating="4.0" NearestAirport="Sky Harbor">
     <Name>AC Hotel Phoenix Tempe/Downtown</Name>
+    <Phone>480-642-6140</Phone>
     <Address>
       <Number>100</Number>
       <Street>E Rio Salado Pkwy</Street>
@@ -99,11 +100,11 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
-    <Phone>480-642-6140</Phone>
   </Hotel>
 
-  <Hotel Rating="3.9">
+  <Hotel Rating="3.9" NearestAirport="">
     <Name>Aloft Tempe</Name>
+    <Phone>480-621-3300</Phone>
     <Address>
       <Number>951</Number>
       <Street>E Playa del Norte Dr</Street>
@@ -111,11 +112,11 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
-    <Phone>480-621-3300</Phone>
   </Hotel>
 
   <Hotel Rating="4.2" NearestAirport="Sky Harbor">
     <Name>Hampton Inn &amp; Suites Tempe/Phoenix Airport</Name>
+    <Phone>480-410-6400</Phone>
     <Address>
       <Number>1550</Number>
       <Street>S 52nd St</Street>
@@ -123,11 +124,12 @@
       <State>AZ</State>
       <Zip>85281</Zip>
     </Address>
-    <Phone>480-410-6400</Phone>
   </Hotel>
 
-  <Hotel Rating="4.5">
+  <Hotel Rating="4.5" NearestAirport="Sky Harbor">
     <Name>Kimpton Hotel Palomar Phoenix</Name>
+    <Phone>602-253-6633</Phone>
+    <Phone>877-488-1908</Phone>
     <Address>
       <Number>2</Number>
       <Street>E Jefferson St</Street>
@@ -135,8 +137,6 @@
       <State>AZ</State>
       <Zip>85004</Zip>
     </Address>
-    <Phone>602-253-6633</Phone>
-    <Phone>877-488-1908</Phone>
   </Hotel>
 
 </Hotels>
