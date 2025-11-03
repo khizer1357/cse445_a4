@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:noNamespaceSchemaLocation="https://khizer1357.github.io/cse445_a4/Hotels.xsd">
+        xsi:noNamespaceSchemaLocation="https://khizer1357.github.io/cse445_a4/HotelsFinal.xsd">
+
 
   <Hotel Rating="4.2" NearestAirport="Sky Harbor">
     <Name>Westin</Name>
