@@ -53,7 +53,7 @@
     <Name>Sheraton Phoenix Downtown</Name>
   </Hotel>
 
-  <Hotel Rating="4.1">
+  <Hotel Rating="4.1" NearestAirport="Sky Harbor">
     <Address>
       <Number>60</Number>
       <Street>E 5th St</Street>
@@ -78,7 +78,7 @@
     <Name>Hyatt Regency Phoenix</Name>
   </Hotel>
 
-  <Hotel Rating="3.8">
+  <Hotel Rating="3.8" NearestAirport="Sky Harbor">
     <Address>
       <Number>225</Number>
       <Street>E Apache Blvd</Street>
@@ -102,7 +102,7 @@
     <Name>AC Hotel Phoenix Tempe/Downtown</Name>
   </Hotel>
 
-  <Hotel Rating="3.9">
+  <Hotel Rating="3.9" NearestAirport="Sky Harbor">
     <Address>
       <Number>951</Number>
       <Street>E Playa del Norte Dr</Street>
