@@ -53,7 +53,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="4.1" NearestAirport="">
+  <Hotel Rating="4.1">
     <Name>Tempe Mission Palms</Name>
     <Phone>480-894-1400</Phone>
     <Address>
@@ -78,7 +78,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="3.8" NearestAirport="">
+  <Hotel Rating="3.8">
     <Name>Graduate Tempe</Name>
     <Phone>480-967-9431</Phone>
     <Address>
@@ -102,7 +102,7 @@
     </Address>
   </Hotel>
 
-  <Hotel Rating="3.9" NearestAirport="">
+  <Hotel Rating="3.9">
     <Name>Aloft Tempe</Name>
     <Phone>480-621-3300</Phone>
     <Address>
