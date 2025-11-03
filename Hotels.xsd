@@ -22,7 +22,6 @@
               <xs:element name="Phone" type="xs:string" maxOccurs="unbounded"/>
             </xs:sequence>
 
-            <!-- ✅ Correct attribute order and requirement -->
             <xs:attribute name="Rating" type="xs:decimal" use="optional"/>
             <xs:attribute name="NearestAirport" type="xs:string" use="required"/>
 
